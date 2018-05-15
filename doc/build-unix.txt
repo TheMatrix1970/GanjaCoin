@@ -81,12 +81,12 @@ emerge -av1 --noreplace boost openssl sys-libs/db
 Take the following steps to build (no UPnP support):
  cd ${HM_DIR}/src
  make -f makefile.unix USE_UPNP=
- strip Ignitiond
+ strip Ganjad
 
 
 Notes
 -----
-The release is built with GCC and then "strip Ignitiond" to strip the debug
+The release is built with GCC and then "strip Ganjad" to strip the debug
 symbols, which reduces the executable size by about 90%.
 
 

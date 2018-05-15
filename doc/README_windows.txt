@@ -16,5 +16,3 @@ Ganjaproject is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin and NovaCoin, innovations such as proof-of-stake and scrypt
 help further advance the field of crypto-currency.
-
-The latest Windows binaries (.exe of qt-wallet) are available on Github, at https://github.com/ignitioncoin/ignitioncoin/releases

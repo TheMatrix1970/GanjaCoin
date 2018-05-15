@@ -81,4 +81,4 @@ Ganjaproject
 DOS prompt:
 cd \Ganjaproject\src
 mingw32-make -f makefile.mingw
-strip Ignitiond.exe
+strip Ganjad.exe

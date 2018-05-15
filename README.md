@@ -2,7 +2,7 @@ Ganjacoin Release Tree
 
 Ganjacoin is a POW/PoS-based cryptocurrency.
 
-Ganjacoin is a PoW (Scrypt) / PoS / Master Node hybrid cryptocurrency, with a 5 million coin maximum supply, which is generated at a slower rate every 1 Million IC, until it's limit is reached. Master Node cost 3000IC, block size is 20MB, and block time is ~2Minutes.
+Ganjacoin is a PoW (Scrypt) / PoS / Master Node hybrid cryptocurrency, Master Node cost 3000IC, block size is 20MB, and block time is ~2Minutes.
 
 50% of Blocks are PoW , and 50% are PoS, of which each PoS block is split between Masternode and Staker.
 

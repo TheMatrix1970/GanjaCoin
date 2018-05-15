@@ -27,7 +27,7 @@ but you can get the current version from http://developer.apple.com
 
 1.  Clone the github tree to get the source code:
 
-git clone git@github.com:rat4/Ganjaproject.git Ganjaproject
+NEED UPDATE
 
 2.  Download and install MacPorts from http://www.macports.org/
 
@@ -47,8 +47,8 @@ cd Ganjaproject/src
 make -f makefile.osx
 
 Run:
-  ./Ignitiond --help  # for a list of command-line options.
+  ./Ganjad --help  # for a list of command-line options.
 Run
-  ./Ignitiond -daemon # to start the Ganjaproject daemon.
+  ./Ganjad -daemon # to start the Ganjaproject daemon.
 Run
-  ./Ignitiond help # When the daemon is running, to get a list of RPC commands
+  ./Ganjad help # When the daemon is running, to get a list of RPC commands

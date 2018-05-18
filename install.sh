@@ -3,7 +3,7 @@ apt-get update && apt-get -y upgrade && apt-get -y install libwww-perl build-ess
 mkdir -p ~/coins && cd ~/coins && git clone https://github.com/legends420/GanjaCoin.git && cd ~/coins/GanjaCoin/src && make -f makefile.unix
 ./Ganjad
 sudo cp ~/coins/GanjaCoin/MNSampleGanjaProject.conf ~/.Ganjaproject/Ganjaproject.conf
-echo "Put in your privkey,txindex and your VPS IP address"
+echo " Edit username , rpcpassword and put in your privkey,txindex and your VPS IP address"
 nano ~/.Ganjaproject/Ganjaproject.conf
 echo "start node"
 ./Ganjad

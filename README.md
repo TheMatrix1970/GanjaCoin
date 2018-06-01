@@ -4,7 +4,7 @@ Ganjacoin is a PoW (Scrypt) / PoS / Master Node hybrid cryptocurrency, Master No
 
 Reward Structure
 
-Block 14000 - 50  Reward / Masternode 1/2
+Block 14000 - 50  Reward / Masternode 1/2<br>
 Block 20000 - 100 Reward / Masternode 70%
 Block 20020 - 30  Reward / Masternode 70%
 Block 30000 - 25  Reward / Masternode 80%

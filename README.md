@@ -1,10 +1,14 @@
-Ganjacoin Release Tree
+Ganjacoin 
 
-Ganjacoin is a POW/PoS-based cryptocurrency.
+Ganjacoin is a PoW (Scrypt) / PoS / Master Node hybrid cryptocurrency, Master Node cost 30,000 MRJA, block size is 20MB, and block time is ~2Minutes.
 
-Ganjacoin is a PoW (Scrypt) / PoS / Master Node hybrid cryptocurrency, Master Node cost 30000MRJA, block size is 20MB, and block time is ~2Minutes.
+Reward Structure
 
-50% of Blocks are PoW , and 50% are PoS, of which each PoS block is split between Masternode and Staker.
+Block 14000 - 50  Reward / Masternode 1/2
+Block 20000 - 100 Reward / Masternode 70%
+Block 20020 - 30  Reward / Masternode 70%
+Block 30000 - 25  Reward / Masternode 80%
+Block 40000 - 20  Reward / Masternode 80%
 
 Block Spacing: 120 Seconds
 Diff Retarget: every Blocks
